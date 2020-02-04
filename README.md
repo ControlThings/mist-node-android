@@ -1,12 +1,5 @@
-You should have the mistService-esp repository, branch master.
+# mist-node-android
 
-Symlink the following subdirectories of mistService-esp to
-referencelibrary/src/main/jni
+This is a library for creating Android Apps that use the Mist Node library. Such apps are usually "device drivers" that expose a hardware device to the Mist IoT network. 
 
-deps
-mistService
-wish_app
-wish_app_deps
-wish_rpc
-
-Then compile with 'ndk-build' in directory referencelibrary/src/main/jni
+UI applications usually use the mist-api-android library.
