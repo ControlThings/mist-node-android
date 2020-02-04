@@ -1,0 +1,9 @@
+/.gradle
+/.idea
+/build
+*.iml
+/local.properties
+/local.properties
+MistNode/src/main/obj
+MistNode/src/main/libs/
+

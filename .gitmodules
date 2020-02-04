@@ -1,0 +1,18 @@
+[submodule "MistNode/src/main/jni"]
+	path = MistNode/src/main/jni
+	url = foremost.cto.fi:/git/android/mist-wish-addon-jni-android
+[submodule "MistNode/src/main/aidl"]
+	path = MistNode/src/main/aidl
+	url = foremost.cto.fi:/git/android/mist-wish-addon-aidl-android
+[submodule "MistNode/src/main/java/addon"]
+	path = MistNode/src/main/java/addon
+	url = foremost.cto.fi:/git/android/mist-wish-addon-android
+[submodule "MistNode/src/main/java/utils"]
+	path = MistNode/src/main/java/utils
+	url = foremost.controlthings.fi:/git/android/utils
+[submodule "MistNode/src/main/java/wish-app-java-binding"]
+	path = MistNode/src/main/java/wish
+	url = foremost.controlthings.fi:/git/android/wish-app-java-binding
+[submodule "MistNode/src/main/java/mist/node"]
+	path = MistNode/src/main/java/mist/node
+	url = foremost.controlthings.fi:/git/android/mist-node-java-binding
